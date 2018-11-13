@@ -1,9 +1,9 @@
 # Da-Gam
 
-Développement d'un petit jeu de réflexion plateforme sur le moteur Construct 2. Le projet part sur des bases déjà établies, bien que rudimentaires. L'environnement 2D comprend 3 couleurs : Noir, Blanc, Rouge. Le joueur peut être coloré en Noir ou en Blanc. 
+Développement d'un jeu de réflexion plateforme sur le moteur Construct 2. Le projet part sur des bases déjà établies, bien que rudimentaires. L'environnement 2D comprend 3 couleurs : Noir, Blanc, Rouge. Le joueur peut être coloré en Noir ou en Blanc. 
 
-> Un élément noir ne peut interagir qu'avec un élément de la même couleur, et réciproquement.
-> Un élément rouge peut interagir avec n'importe quel objet de n'importe quel couleur.
+- Un élément noir ne peut interagir qu'avec un élément de la même couleur, et réciproquement.
+- Un élément rouge peut interagir avec n'importe quel objet de n'importe quel couleur.
 
 L'environnement 2D est supposé être un petit archipel tricolore. Chaque île représente un puzzle.
 
