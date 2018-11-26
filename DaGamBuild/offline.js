@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1542150610,
+	"version": 1542697232,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -104,6 +104,8 @@
 		"images/glassparticles.png",
 		"images/teleparticles.png",
 		"images/whitetiles.png",
+		"images/big_white_box-sheet0.png",
+		"images/n_big_white_box-sheet0.png",
 		"media/morph_a.m4a",
 		"media/morph_a.ogg",
 		"media/morph_b.m4a",
@@ -175,6 +177,8 @@
 		"media/sparks_4.ogg",
 		"media/sparks_5.m4a",
 		"media/sparks_5.ogg",
+		"media/broken_glass_3.m4a",
+		"media/broken_glass_3.ogg",
 		"media/ambient.m4a",
 		"media/ambient.ogg",
 		"media/self esteem fund.m4a",
