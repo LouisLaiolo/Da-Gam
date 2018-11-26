@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1542698405,
+	"version": 1542697232,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -177,15 +177,6 @@
 		"media/sparks_5.ogg",
 		"media/broken_glass_3.m4a",
 		"media/broken_glass_3.ogg",
-		"media/impact_glass_2.m4a",
-		"media/impact_glass_2.ogg",
-		"media/impact_glass_3.m4a",
-		"media/impact_glass_3.ogg",
-		"media/impact_glass_1.m4a",
-		"media/footstep_metal_2.m4a",
-		"media/footstep_metal_2.ogg",
-		"media/footstep_metal_1.m4a",
-		"media/footstep_metal_1.ogg",
 		"media/ambient.m4a",
 		"media/ambient.ogg",
 		"media/self esteem fund.m4a",
