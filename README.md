@@ -22,24 +22,45 @@ A l'heure actuelle, le projet comprend 8 modules considérés stables :
 - Gestion de plateformes mouvantes
 - Gestion des JumpPad
 
-Pour 3 modules en travaux plus ou moins stables :
+Pour 3 modules en travaux, également stables :
 
 - Gestion des jointures entre objets (en travaux - stable)
-- Sons (en travaux - instable)
-- Gestion de l'energie cinétique (en travaux - instable)
+- Sons (en travaux - stable)
+- Gestion de l'energie cinétique (en travaux - stable)
 
 ## Features à rajouter
 
 - Mécanique d'inversion des couleurs dans une zone donnée pour X secondes
-- Rendre les modules défectueux stables et fonctionnels
 - Implémentation d'un ou de plusieurs nouveaux puzzles
+- Améliorations graphiques diverses (notamment, rajouter des backgrounds)
 
-## Getting started
+## Comment jouer
 
-Le jeu peut se lancer en local, sans upload nécéssaire. Un message d'erreur indiquera qu'il est conseillé de passer par une upload, mais on peut l'ignorer. Cela dit, il vaut mieux tester le projet sur un serveur local, via WAMP par exemple.
+Récupérez le build du projet (DaGamBuild) puis lancez son index.html.
+
+Le jeu peut normalement se lancer en local, sans upload nécéssaire. Un message d'erreur indiquera qu'il est conseillé de passer par une upload, vous pouvez l'ignorer. S'il n'est pas possible de le lancer tel quel, uploadez le build sur un serveur en ligne ou en local, via WAMP par exemple.
+
+Les contrôles sont plutot simples : 
+
+- Avancer : D
+- Reculer : Q
+- Sauter : Z
+- Colorer le joueur en noir : Clic gauche
+- Colorer le joueur en blanc : Clic droit
+- Interargir avec un objet : Curseur sur l'objet + E
+
+Sur chaque environnement, il faut atteindre puis activer tous les triggers (leviers) puis revenir à l'entrée.
 
 ## Prérequis
 
 Navigateur Chrome ou Firefox conseillés. Actuellement peu compatible sur Edge ou Internet Explorer.
 
+## Utilisés pour le Build
 
+* [Construct 2](https://www.scirra.com/construct2) - Le moteur de jeu utilisé
+* [Sprite DLight](http://www.2deegameart.com/) - Outil de création de Normal maps
+* [Spriter](https://brashmonkey.com/) - Outil de création d'animations 2D
+
+## License
+
+Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
