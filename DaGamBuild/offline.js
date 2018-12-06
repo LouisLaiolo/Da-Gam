@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1543999808,
+	"version": 1544107137,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -37,6 +37,7 @@
 		"images/whitesocle-sheet0.png",
 		"images/whitetop-sheet0.png",
 		"images/whitewall-sheet0.png",
+		"images/inversezone-sheet0.png",
 		"media/footstep_concrete_1.m4a",
 		"media/footstep_concrete_1.ogg",
 		"media/footstep_concrete_2.m4a",
