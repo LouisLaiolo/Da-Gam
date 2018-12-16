@@ -1,9 +1,9 @@
 ﻿{
-	"name": "DaGam Free Build",
-	"short_name": "DaGam Free Build",
+	"name": "Dull Game",
+	"short_name": "Dull Game",
 	"start_url": "index.html",
 	"display": "fullscreen",
-	"orientation": "any",
+	"orientation": "landscape",
 	"icons": [{
 		"src": "icon-16.png",
 		"sizes": "16x16",
