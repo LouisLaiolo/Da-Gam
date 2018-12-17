@@ -27,10 +27,10 @@ Pour 3 modules en travaux, également stables :
 - Gestion des jointures entre objets (en travaux - stable)
 - Sons (en travaux - stable)
 - Gestion de l'energie cinétique (en travaux - stable)
+- Gestion de l'inversion des couleurs (en travaux - stable)
 
 ## Features à rajouter
 
-- Mécanique d'inversion des couleurs dans une zone donnée pour X secondes
 - Implémentation d'un ou de plusieurs nouveaux puzzles
 - Améliorations graphiques diverses (notamment, rajouter des backgrounds)
 
