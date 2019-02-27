@@ -1,66 +1,69 @@
 # Da-Gam
 
-Développement d'un jeu de réflexion plateforme sur le moteur Construct 2. Le projet part sur des bases déjà établies, bien que rudimentaires. L'environnement 2D comprend 3 couleurs : Noir, Blanc, Rouge. Le joueur peut être coloré en Noir ou en Blanc. 
+Development of a platform reflection game on the Construct 2 engine. The project is based on established, albeit rudimentary, foundations. The 2D environment includes 3 colors: Black, White, Red. The player can be colored in Black or White. 
 
-- Un élément noir ne peut interagir qu'avec un élément de la même couleur, et réciproquement.
-- Un élément rouge peut interagir avec n'importe quel objet de n'importe quel couleur.
+- A black element can only interact with an element of the same color, and vice versa.
+- A red element can interact with any object of any color.
 
-L'environnement 2D est supposé être un petit archipel tricolore. Chaque île représente un puzzle.
+The 2D environment is supposed to be a small tricolor archipelago. Each island represents a puzzle.
 
-Le joueur se déplace avec les touches ZSQD. Il peut utiliser la souris pour alterner ses couleurs comme bon lui semble. Le joueur peut également soulever et déplacer des objets en plaçant son curseur dessus, puis en appuyant sur E.
+The player moves with the ZSQD keys. He can use the mouse to alternate his colors as he sees fit. The player can also lift and move objects by placing his cursor on them and pressing E.
 
-## Modules existants
+## Existing modules
 
-A l'heure actuelle, le projet comprend 8 modules considérés stables :
+At present, the project includes 8 modules considered stable:
 
-- Mouvements du joueur
-- Interactions joueurs/objets
-- Changement de couleurs du joueur
-- Lumiére dynamique
+- Player movements
+- Player/object interactions
+- Changing the player's colors
+- Dynamic light
 - Camera
-- Gestion de l'objet téléporteur
-- Gestion de plateformes mouvantes
-- Gestion des JumpPad
+- Management of the teleporter object
+- Management of moving platforms
+- JumpPad Management
 
-Pour 3 modules en travaux, également stables :
+For 3 modules under construction, also stable:
 
-- Gestion des jointures entre objets (en travaux - stable)
-- Sons (en travaux - stable)
-- Gestion de l'energie cinétique (en travaux - stable)
-- Gestion de l'inversion des couleurs (en travaux - stable)
+- Management of joins between objects (under work - stable)
+- Sounds (under construction - stable)
+- Kinetic energy management (under construction - stable)
+- Management of color inversion (under construction - stable)
 
-## Features à rajouter
+## Features to add
 
-- Implémentation d'un ou de plusieurs nouveaux puzzles
-- Améliorations graphiques diverses (notamment, rajouter des backgrounds)
+- Implementation of one or more new puzzles
+- Various graphic improvements (in particular, adding backgrounds)
 
-## Comment jouer
+## How to play
 
-Récupérez le build du projet (DaGamBuild) puis lancez son index.html.
+Get the build of the project (DaGamBuild) then launch its index.html.
 
-Le jeu peut normalement se lancer en local, sans upload nécéssaire. Un message d'erreur indiquera qu'il est conseillé de passer par une upload, vous pouvez l'ignorer. S'il n'est pas possible de le lancer tel quel, uploadez le build sur un serveur en ligne ou en local, via WAMP par exemple.
+The game can normally be started locally, without uploading. An error message will indicate that it is recommended to use an upload, you can ignore it. If it is not possible to launch it as it is, upload the build to an online or local server, via WAMP for example.
 
-Les contrôles sont plutot simples : 
+The controls are quite simple: 
 
-- Avancer : D
-- Reculer : Q
-- Sauter : Z
-- Colorer le joueur en noir : Clic gauche
-- Colorer le joueur en blanc : Clic droit
-- Interargir avec un objet : Curseur sur l'objet + E
+- Advance: D
+- Backward: Q
+- Skip: Z
+- Colour the player in black: Left click
+- Colour the player in white: Right click
+- Interact with an object: Cursor on the object + E
 
-Sur chaque environnement, il faut atteindre puis activer tous les triggers (leviers) puis revenir à l'entrée.
+On each environment, it is necessary to reach and then activate all the triggers (levers) and then return to the input.
 
-## Prérequis
+## Prerequisites
 
-Navigateur Chrome ou Firefox conseillés. Actuellement peu compatible sur Edge ou Internet Explorer.
+Chrome or Firefox browser recommended. Currently not very compatible with Edge or Internet Explorer.
 
-## Utilisés pour le Build
+## Used for the Build
 
-* [Construct 2](https://www.scirra.com/construct2) - Le moteur de jeu utilisé
-* [Sprite DLight](http://www.2deegameart.com/) - Outil de création de Normal maps
-* [Spriter](https://brashmonkey.com/) - Outil de création d'animations 2D
+* [Construct 2](https://www.scirra.com/construct2) - The game engine used
+*[Sprite DLight](http://www.2deegameart.com/) - Normal maps creation tool
+*[Spriter](https://brashmonkey.com/) - 2D animation creation tool
 
 ## License
 
-Ce projet est sous licence MIT - voir le fichier [LICENSE.md](LICENSE.md) pour plus de détails.
+This project is under MIT license - see the file[LICENSE.md](LICENSE.md) for more details.
+
+
+Translated with www.DeepL.com/Translator
