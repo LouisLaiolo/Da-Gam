@@ -66,4 +66,3 @@ Chrome or Firefox browser recommended. Currently not very compatible with Edge o
 This project is under MIT license - see the file[LICENSE.md](LICENSE.md) for more details.
 
 
-Translated with www.DeepL.com/Translator
